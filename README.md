@@ -1,13 +1,12 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/60247328?v=4" width="100" style="border: 2px solid #aaaaaa; border-radius:50px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2)"/>
+    <h1>
+      Hi there! I'm Guitarband.
+    </h1>
   <div id="badges">
       <a href="https://www.linkedin.com/in/preetish-choudhary-a9b628328/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
     </div>
-    <h1>
-      Hi there! I'm Guitarband.
-    </h1>
     <p>I'm a first year university student studying computer science.</p>
     <h3>Languages and Tools</h3>
     <div>
